@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-10-20T06:15:01Z" name="Default suite" finished-at="2020-10-20T06:15:01Z" duration-ms="145">
+  <suite started-at="2020-10-20T09:59:00Z" name="Default suite" finished-at="2020-10-20T09:59:00Z" duration-ms="137">
     <groups>
     </groups>
-    <test started-at="2020-10-20T06:15:01Z" name="Default test" finished-at="2020-10-20T06:15:01Z" duration-ms="145">
+    <test started-at="2020-10-20T09:59:00Z" name="Default test" finished-at="2020-10-20T09:59:00Z" duration-ms="137">
       <class name="com.vtiger.org.CreateOrgTest">
-        <test-method signature="Open()[pri:0, instance:com.vtiger.org.CreateOrgTest@77f1baf5]" started-at="2020-10-20T06:15:01Z" name="Open" finished-at="2020-10-20T06:15:01Z" duration-ms="50" status="PASS">
+        <test-method signature="Open()[pri:0, instance:com.vtiger.org.CreateOrgTest@77f1baf5]" started-at="2020-10-20T09:59:00Z" name="Open" finished-at="2020-10-20T09:59:00Z" duration-ms="39" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Open -->

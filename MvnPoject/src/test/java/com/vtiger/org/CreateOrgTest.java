@@ -10,4 +10,9 @@ public void Open()
 {
 	System.out.println("hiiiiiiiiii");
 }
+@Test
+public void close()
+{
+	System.out.println("helloi");
+}
 }

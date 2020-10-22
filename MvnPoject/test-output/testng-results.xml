@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-10-20T09:59:00Z" name="Default suite" finished-at="2020-10-20T09:59:00Z" duration-ms="137">
+  <suite started-at="2020-10-20T16:24:19Z" name="Default suite" finished-at="2020-10-20T16:24:21Z" duration-ms="1732">
     <groups>
     </groups>
-    <test started-at="2020-10-20T09:59:00Z" name="Default test" finished-at="2020-10-20T09:59:00Z" duration-ms="137">
-      <class name="com.vtiger.org.CreateOrgTest">
-        <test-method signature="Open()[pri:0, instance:com.vtiger.org.CreateOrgTest@77f1baf5]" started-at="2020-10-20T09:59:00Z" name="Open" finished-at="2020-10-20T09:59:00Z" duration-ms="39" status="PASS">
+    <test started-at="2020-10-20T16:24:19Z" name="Default test" finished-at="2020-10-20T16:24:21Z" duration-ms="1732">
+      <class name="com.vtiger.org.ExtentReport">
+        <test-method signature="login()[pri:0, instance:com.vtiger.org.ExtentReport@6e509ffa]" started-at="2020-10-20T16:24:19Z" name="login" finished-at="2020-10-20T16:24:20Z" duration-ms="1640" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Open -->
-      </class> <!-- com.vtiger.org.CreateOrgTest -->
+        </test-method> <!-- login -->
+      </class> <!-- com.vtiger.org.ExtentReport -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
